@@ -9,7 +9,6 @@ https://trello.com/invite/b/uw1VUGxd/fdb6db55e8f6a15071acdb3c56b4b708/trivio-app
 
 
 ## Current Tasks (02.10.21)
-
 * Donald: Making an instance of a game on iOS 
 * Jessica W: front-end wireframing 
 * Manprit: Firebase Schema
